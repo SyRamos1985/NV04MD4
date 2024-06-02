@@ -7,7 +7,7 @@
 - Aluna: **Simone Ramos de Jesus**
 - Matricula: **202208290965**
 - Curso EAD: **Desenvolvimento Full Stack**
-- Campus: **Polo Prado – Belo Horizonte – MG**  
+- Campus Virtual EAD: **Polo Prado – Belo Horizonte – MG**  
 
 
 ---
